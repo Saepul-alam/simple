@@ -1,0 +1,29 @@
+/* src/colors/_colors.css
+:root {
+    --primary-color: #364f6b; 
+    --secondary-color: #2ecc71;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+    --accent-color: #e74c3c;
+    --menu-background-color: #ffffff;
+    --border-color: #364f6b;
+    --link-hover-color: #3498db; 
+  }
+   */
+
+/* src/colors/_colors.css */
+:root {
+    --primary-color: #364f6b; /* Warna utama */
+    --secondary-color: #2ecc71;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+    --accent-color: #e74c3c;
+    --menu-background-color: #ffffff;
+    --border-color: #364f6b;
+    --link-hover-color: #3498db; /* Untuk hover pada link */
+    --button-blue: #3f72af; /* Warna biru untuk tombol */
+    --button-pink: #fc5185; /* Warna pink untuk tombol */
+    --footer-background-color: #dedede; /* Warna latar belakang footer */
+  }
+  
+  

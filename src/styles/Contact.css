@@ -1,0 +1,20 @@
+/* src/colors/global.css */
+@import './_colors.css';
+
+#contact {
+  background: var(--footer-background-color); /* Menggunakan variabel warna latar belakang footer */
+  padding: 50px 0px 50px 0px;
+}
+
+.footer {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.footer-section {
+  width: 20%;
+  margin: 0 auto;
+}
